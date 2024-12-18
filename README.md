@@ -11,3 +11,9 @@ downloadPlaylist(PLAYLIST_URL);
 
 
 replace the url with the url of the playlist you want to download it will download all of the videos into the folder with the nodeJS script!
+
+prerequisites:
+
+NODEJS
+
+npm install ytpl youtube-dl-exec
